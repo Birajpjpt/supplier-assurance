@@ -1,0 +1,11 @@
+#Virtual Env
+venv/
+
+#Environment Variables
+.env
+
+#Pycache
+__pycache__/
+
+#IntelliJ
+.idea/
